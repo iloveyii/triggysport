@@ -1,8 +1,8 @@
 TriggySport
 ===============================
 
-This is an Android/Ios App developed in React, React Native. The app shows a list of line sports/football events and their related odds. The user can easily
-created custom Notifications get instant info about the sports the use is interested in.
+This is an Android/iOS App developed in React, React Native. The app shows a list of online sports/football events and their related odds. The user can easily
+creat custom Notifications, and then get instant info about the sports the user is interested in.
 
 ![Screenshot](http://triggysport.softhem.se/images/web.png) 
 
